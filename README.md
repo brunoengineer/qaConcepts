@@ -6,8 +6,10 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ---
 
-
 ## 📚 Topics Covered
+
+### 🚦 [Performance Testing](performanceTests.md)
+- Key concepts, strategies, and examples for performance and load testing.
 
 ### 📱 [Starting Concepts](qaStartingConcepts.md)
 - Overview of 25 key QA concepts for beginners.
