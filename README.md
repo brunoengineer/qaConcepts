@@ -8,6 +8,10 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 
 ## 📚 Topics Covered
 
+
+### 🧪 [K6 Performance Testing](k6-performance-testing.md)
+- How to use K6 for modern load and performance testing, with scripts and best practices.
+
 ### 🚦 [Performance Testing](performanceTests.md)
 - Key concepts, strategies, and examples for performance and load testing.
 
