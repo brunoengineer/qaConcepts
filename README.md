@@ -84,6 +84,12 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### 🏁 [Test Process (ISTQB)](testProcessISTQB.md)
 - Standard ISTQB test process, phases, activities, and deliverables.
 
+### ⚙️ [Automation Decision](automationDecision.md)
+- The importance of test automation and how to decide what to automate.
+
+### 🎭 [Playwright E2E Testing + CI Guide](pwRepoIntegration.md)
+- Practical blueprint for adding Playwright E2E tests, GitHub Actions CI, TestRail integration, custom HTML reports, and advanced CI patterns.
+
 
 ## 🔖 References
 
