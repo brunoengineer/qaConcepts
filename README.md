@@ -9,85 +9,85 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ## 📚 Topics Covered
 
 
-### 🧪 [K6 Performance Testing](k6-performance-testing.md)
+### ➡️ [K6 Performance Testing](k6-performance-testing.md)
 - How to use K6 for modern load and performance testing, with scripts and best practices.
 
-### 🚦 [Performance Testing](performanceTests.md)
+### ➡️ [Performance Testing](performanceTests.md)
 - Key concepts, strategies, and examples for performance and load testing.
 
-### 📱 [Starting Concepts](qaStartingConcepts.md)
+### ➡️ [Starting Concepts](qaStartingConcepts.md)
 - Overview of 25 key QA concepts for beginners.
 
-### 🚀 [What is Testing](what_is_testing.md)
+### ➡️ [What is Testing](what_is_testing.md)
 - Fundamentals and importance of software testing.
 
-### 🕵️‍♂️ [Software Testing](softwareTesting.md)
+### ➡️ [Software Testing](softwareTesting.md)
 - Principles, types, and levels of testing.
 
-### 📊 [QA Testing Report](qaTestingReport.md)
+### ➡️ [QA Testing Report](qaTestingReport.md)
 - How to structure and communicate test results.
 
-### 🎯 [Testing Prioritization](prioritization.md)
+### ➡️ [Testing Prioritization](prioritization.md)
 - Strategies for deciding what to test first.
 
-### 🪲 [Bug Life Cycle](bugLifeCycle.md)
+### ➡️ [Bug Life Cycle](bugLifeCycle.md)
 - Defect journey and roles in defect management.
 
-### 🧩 [Functional vs Non-Functional Testing](functNonFunct.md)
+### ➡️ [Functional vs Non-Functional Testing](functNonFunct.md)
 - Differences, examples, and importance of both.
 
-### 🔗 [HTTP Error Codes](errorCodesHTTP.md)
+### ➡️ [HTTP Error Codes](errorCodesHTTP.md)
 - Common HTTP status codes and their testing impact.
 
-### 📱 [Testing for Mobile](mobileTestTools.md)
+### ➡️ [Testing for Mobile](mobileTestTools.md)
 - Mobile testing challenges and best practices.
 
-### � [Testing Principles](testingPrinciples.md)
+### ➡️ [Testing Principles](testingPrinciples.md)
 - The seven testing principles with real-world examples.
 
-### � [Test Plan](testPlan.md)
+### ➡️ [Test Plan](testPlan.md)
 - How to create and use a well-structured test plan.
 
-### �️ [Test Case Jira](testCaseJira.md)
+### ➡️ [Test Case Jira](testCaseJira.md)
 - Example test cases and Jira integration.
 
-### ⚫ [Black-Box Test Design Techniques](blackBoxTesting.md)
+### ➡️ [Black-Box Test Design Techniques](blackBoxTesting.md)
 - EP, BVA, Decision Tables, State Transitions, Use Cases, Error Guessing, Cause-Effect Graphs, Random Testing, Pairwise Testing.
 
-### ⚪ [White-Box Test Design Techniques](whiteBoxTesting.md)
+### ➡️ [White-Box Test Design Techniques](whiteBoxTesting.md)
 - Statement, Branch, Condition, Multiple Condition, Path, Control Flow, Data Flow, Loop Testing.
 
-### � [Test Phases](testPhases.md)
+### ➡️ [Test Phases](testPhases.md)
 - Key activities and examples for each test phase.
 
-### � [Traceability](traceability.md)
+### ➡️ [Traceability](traceability.md)
 - Ensuring requirements are tested and verified.
 
-### 🧮 [Static and Dynamic Testing](staticVsDynamicTesting.md)
+### ➡️ [Static and Dynamic Testing](staticVsDynamicTesting.md)
 - Static (without code execution) vs. Dynamic (with execution).
 
-### � [Review Activities](reviewActivities.md)
+### ➡️ [Review Activities](reviewActivities.md)
 - Static testing through reviews and their benefits.
 
-### 🤖 [AI Testing Assistant](aiTestingAssistant.md)
+### ➡️ [AI Testing Assistant](aiTestingAssistant.md)
 - Guide to using AI for generating manual test cases.
 
-### 📝 [How to Write a Good AI Prompt for Test Case Generation](aiPromptForTestCase.md)
+### ➡️ [How to Write a Good AI Prompt for Test Case Generation](aiPromptForTestCase.md)
 - How to structure prompts for AI to generate effective test cases, with examples and best practices.
 
-### 🧭 [Testing Quadrants Model](testingQuadrantsModel.md)
+### ➡️ [Testing Quadrants Model](testingQuadrantsModel.md)
 - Brian Marick's model for categorizing testing activities.
 
-### 🟩 [Testing Quadrants](testingQuadrants.md)
+### ➡️ [Testing Quadrants](testingQuadrants.md)
 - Detailed explanation and examples of the four quadrants.
 
-### 🏁 [Test Process (ISTQB)](testProcessISTQB.md)
+### ➡️ [Test Process (ISTQB)](testProcessISTQB.md)
 - Standard ISTQB test process, phases, activities, and deliverables.
 
-### ⚙️ [Automation Decision](automationDecision.md)
+### ➡️ [Automation Decision](automationDecision.md)
 - The importance of test automation and how to decide what to automate.
 
-### 🎭 [Playwright E2E Testing + CI Guide](pwRepoIntegration.md)
+### ➡️ [Playwright E2E Testing + CI Guide](pwRepoIntegration.md)
 - Practical blueprint for adding Playwright E2E tests, GitHub Actions CI, TestRail integration, custom HTML reports, and advanced CI patterns.
 
 
