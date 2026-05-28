@@ -66,6 +66,9 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [Static and Dynamic Testing](staticVsDynamicTesting.md)
 - Static (without code execution) vs. Dynamic (with execution).
 
+### ➡️ [Static vs Dynamic Testing — ISTQB Guide](staticVsDynamicTesting_ISTQB.md)
+- ISTQB-aligned, interactive guide with tables, examples, diagrams, and a self-quiz.
+
 ### ➡️ [Review Activities](reviewActivities.md)
 - Static testing through reviews and their benefits.
 
