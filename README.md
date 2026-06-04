@@ -93,6 +93,9 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [Playwright E2E Testing + CI Guide](pwRepoIntegration.md)
 - Practical blueprint for adding Playwright E2E tests, GitHub Actions CI, TestRail integration, custom HTML reports, and advanced CI patterns.
 
+### ➡️ [Onboarding to a New Playwright Repository](onboardingNewRepo.md)
+- 7-phase playbook for a QA engineer joining a new Playwright repo: recon, architecture, local runs, reports, CI mapping, first test, and first PR.
+
 
 ## 🔖 References
 
