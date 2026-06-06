@@ -96,6 +96,9 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [Onboarding to a New Playwright Repository](onboardingNewRepo.md)
 - 7-phase playbook for a QA engineer joining a new Playwright repo: recon, architecture, local runs, reports, CI mapping, first test, and first PR.
 
+### ➡️ [Playwright + TypeScript Automation Mistakes](playwrightTSMistakes.md)
+- Senior-level field guide to common automation mistakes, grouped in 3 severity tiers (critical, major, minor) with wrong vs right code examples, impact matrix, and reviewer's checklist.
+
 
 ## 🔖 References
 
