@@ -75,8 +75,8 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [AI Testing Assistant](aiTestingAssistant.md)
 - Guide to using AI for generating manual test cases.
 
-### ➡️ [How to Write a Good AI Prompt for Test Case Generation](aiPromptForTestCase.md)
-- How to structure prompts for AI to generate effective test cases, with examples and best practices.
+### ➡️ [AI Prompts for QA — Complete Guide](aiPromptsForQA.md)
+- Prompt Pyramid, QA scenarios, prompt patterns (zero/few-shot, chain-of-thought), iteration loop, ready-to-copy templates, evaluation rubric, privacy guardrails, and best practices.
 
 ### ➡️ [Testing Quadrants Model](testingQuadrantsModel.md)
 - Brian Marick's model for categorizing testing activities.
