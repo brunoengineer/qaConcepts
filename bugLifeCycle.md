@@ -208,7 +208,7 @@ Most tools implement the same life cycle with different state names.
 
 > 💡 In **Jira**, customize the workflow scheme so transitions match the diagram above. Use **screens** to enforce required fields (e.g., root cause on close).
 
-📖 See also: [qaTestingReport.md](qaTestingReport.md) · [testCaseJira.md](testCaseJira.md)
+📖 See also: [qaTestingReport.md](qaTestingReport.md) · [xRayTestCase.md](xRayTestCase.md)
 
 ---
 
@@ -360,4 +360,4 @@ Fixes #482
 - IEEE **1044-2009** — Standard Classification for Software Anomalies
 - Atlassian — [Jira workflow best practices](https://www.atlassian.com/software/jira/guides/workflows/overview)
 - Xray Docs — [docs.getxray.app](https://docs.getxray.app/)
-- Related docs: [qaTestingReport.md](qaTestingReport.md) · [prioritization.md](prioritization.md) · [testCaseJira.md](testCaseJira.md) · [traceability.md](traceability.md)
+- Related docs: [qaTestingReport.md](qaTestingReport.md) · [prioritization.md](prioritization.md) · [xRayTestCase.md](xRayTestCase.md) · [traceability.md](traceability.md)

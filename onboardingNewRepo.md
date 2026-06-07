@@ -335,7 +335,7 @@ test.describe('Login @smoke', () => {
 });
 ```
 
-📖 See also: [pwRepoIntegration.md](pwRepoIntegration.md) · [testCaseJira.md](testCaseJira.md)
+📖 See also: [pwRepoIntegration.md](pwRepoIntegration.md) · [xRayTestCase.md](xRayTestCase.md)
 
 ---
 
@@ -454,4 +454,4 @@ Use this as a literal to-do list on day one.
 - Playwright Best Practices — [playwright.dev/docs/best-practices](https://playwright.dev/docs/best-practices)
 - GitHub Actions Docs — [docs.github.com/actions](https://docs.github.com/actions)
 - Conventional Commits — [conventionalcommits.org](https://www.conventionalcommits.org/)
-- Related docs: [pwRepoIntegration.md](pwRepoIntegration.md) · [qaTestingReport.md](qaTestingReport.md) · [bugLifeCycle.md](bugLifeCycle.md) · [testCaseJira.md](testCaseJira.md) · [traceability.md](traceability.md)
+- Related docs: [pwRepoIntegration.md](pwRepoIntegration.md) · [qaTestingReport.md](qaTestingReport.md) · [bugLifeCycle.md](bugLifeCycle.md) · [xRayTestCase.md](xRayTestCase.md) · [traceability.md](traceability.md)

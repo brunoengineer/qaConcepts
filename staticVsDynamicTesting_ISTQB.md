@@ -238,7 +238,6 @@ flowchart LR
 - See also in this repo:
   - [softwareTesting.md](softwareTesting.md)
   - [testingPrinciples.md](testingPrinciples.md)
-  - [reviewActivities.md](reviewActivities.md)
   - [testProcessISTQB.md](testProcessISTQB.md)
 
 ---

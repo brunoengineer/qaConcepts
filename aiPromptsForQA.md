@@ -94,7 +94,7 @@ AI is useful well beyond test-case writing. Each row below maps to a template la
 | **RCA / 5 Whys**                  | Branching cause hypotheses for a given failure description.         |
 | **Release notes & QA summaries**  | Stakeholder-friendly recap of what shipped and what was tested.     |
 
-📖 See also: [aiTestingAssistant.md](aiTestingAssistant.md) · [testCaseJira.md](testCaseJira.md) · [bugLifeCycle.md](bugLifeCycle.md) · [testPlan.md](testPlan.md)
+📖 See also: [aiTestingAssistant.md](aiTestingAssistant.md) · [xRayTestCase.md](xRayTestCase.md) · [bugLifeCycle.md](bugLifeCycle.md) · [testPlan.md](testPlan.md)
 
 ---
 
@@ -257,7 +257,7 @@ Style:   Constructive, specific, blameless.
 Format:  Markdown table with columns: Concern | Quote | Why it matters | Suggestion.
 ```
 
-📖 See also: [aiTestingAssistant.md](aiTestingAssistant.md) · [testCaseJira.md](testCaseJira.md)
+📖 See also: [aiTestingAssistant.md](aiTestingAssistant.md) · [xRayTestCase.md](xRayTestCase.md)
 
 ---
 
@@ -417,4 +417,4 @@ Run this checklist on every non-trivial prompt **before** you press enter.
 - Anthropic — [Prompt engineering overview](https://docs.anthropic.com/claude/docs/prompt-engineering)
 - Google — [Introduction to prompt design](https://ai.google.dev/docs/prompt_best_practices)
 - ISTQB® — [AI Testing syllabus](https://www.istqb.org/certifications/certified-tester-ai-testing-ct-ai)
-- Related docs: [aiTestingAssistant.md](aiTestingAssistant.md) · [testCaseJira.md](testCaseJira.md) · [bugLifeCycle.md](bugLifeCycle.md) · [testPlan.md](testPlan.md) · [traceability.md](traceability.md)
+- Related docs: [aiTestingAssistant.md](aiTestingAssistant.md) · [xRayTestCase.md](xRayTestCase.md) · [bugLifeCycle.md](bugLifeCycle.md) · [testPlan.md](testPlan.md) · [traceability.md](traceability.md)

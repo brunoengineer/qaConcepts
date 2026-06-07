@@ -48,8 +48,8 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [Test Plan](testPlan.md)
 - How to create and use a well-structured test plan.
 
-### ➡️ [Test Case Jira](testCaseJira.md)
-- Example test cases and Jira integration.
+### ➡️ [Test Cases in Jira + Xray — Complete Guide](xRayTestCase.md)
+- Xray issue model, test types (Manual / Cucumber / Generic), step-by-step creation, datasets & parameterization, Test Sets / Plans / Executions, traceability matrix, anti-patterns, and reviewer's checklist.
 
 ### ➡️ [Black-Box Test Design Techniques](blackBoxTesting.md)
 - EP, BVA, Decision Tables, State Transitions, Use Cases, Error Guessing, Cause-Effect Graphs, Random Testing, Pairwise Testing.
@@ -63,14 +63,8 @@ Whether you’re a QA engineer, developer, or simply passionate about building b
 ### ➡️ [Traceability](traceability.md)
 - Ensuring requirements are tested and verified.
 
-### ➡️ [Static and Dynamic Testing](staticVsDynamicTesting.md)
-- Static (without code execution) vs. Dynamic (with execution).
-
 ### ➡️ [Static vs Dynamic Testing — ISTQB Guide](staticVsDynamicTesting_ISTQB.md)
 - ISTQB-aligned, interactive guide with tables, examples, diagrams, and a self-quiz.
-
-### ➡️ [Review Activities](reviewActivities.md)
-- Static testing through reviews and their benefits.
 
 ### ➡️ [AI Testing Assistant](aiTestingAssistant.md)
 - Guide to using AI for generating manual test cases.
